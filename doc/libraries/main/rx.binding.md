@@ -40,5 +40,5 @@ NuGet Dependencies:
 
 ### Subjects
 
-- [`Rx.BehaviorSubject`](../../api/core/observable.mdapi/subjects/behaviorsubject.md)
-- [`Rx.ReplaySubject`](../../api/core/observable.mdapi/subjects/replaysubject.md)
+- [`Rx.BehaviorSubject`](../../api/subjects/behaviorsubject.md)
+- [`Rx.ReplaySubject`](../../api/subjects/replaysubject.md)
